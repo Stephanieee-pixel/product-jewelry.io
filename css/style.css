@@ -1,0 +1,35 @@
+h1 {
+  color:#E9D2C0;
+  text-align:center;
+  font-family: 'Great Vibes', cursive;
+  font-size:45px;
+}
+h1:hover{
+  color:#1F2041
+}
+body{
+  background-color: #9E7B9B
+}
+  .center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+h2 {
+  font-size:30px;
+  text-align: center;
+  font-family: 'Playfair Display SC', serif;
+
+}
+td {
+  width: 500px;
+  height: 40px;
+  text-align: center;
+}
+a{
+    color:#DAC6B5;
+}
+a:hover{
+  color:#EAE1DF
+}
