@@ -2,7 +2,7 @@ h1 {
   color:#E9D2C0;
   text-align:center;
   font-family: 'Great Vibes', cursive;
-  font-size:45px;
+  font-size:50px;
 }
 h1:hover{
   color:#1F2041
@@ -38,4 +38,14 @@ p{
   text-align: center;
   font-family: 'Arapey', serif;
   color: #F2F3D9
+}
+.main{
+  height: 600px;
+  width:1885px;
+}
+h3{
+  font-family: 'Belleza', sans-serif;
+  font-size:35PX;
+  text-align: center;
+  color: #E6CCBE;
 }
